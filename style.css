@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Jun 26, 2018, 7:15:47 PM
+    Author     : azhar
+*/
+
+.row_style{
+    margin-top:10px;
+
+}
+.btn{
+    font-size:10px;
+}
+
+
+ .container-decor{
+        background-color:#000;
+        color:#9d9d9d;}
+
+
+ body{
+padding-top: 100px;
+background-color:#fff;
+
+
+
+
+ }
+
+
+ .banner_image{
+     padding-top: 75px;
+
+padding-bottom: 50px;
+
+text-align: center;
+
+color: #f8f8f8;
+
+background: url(../img/intro-bg_1.jpg) no-repeat center center;
+
+background-size: cover;
+
+ }
+ #banner_content > .center{
+	position:absolute;
+	top:50%;
+	left:50%;
+
+ }
+ /*
+ .banner_content{
+            position: relative;
+
+padding-top: 6%;
+
+padding-bottom: 6%;
+
+margin-top: 12%;
+
+margin-bottom: 12%;
+
+background-color: rgba(0, 0, 0, 0.7);
+
+max-width: 660px;
+
+ }
+
+  */
+
+
+/* Style the button and place it in the middle of the container/image */
+
+
+.container .btn:hover {
+  background-color: black;
+}
+ .sign{
+        height:80vh;
+        }
+
+
+
+ footer{
+/*position:relative;*/
+ padding: 10px 0;
+
+background-color: #101010;
+
+color:#9d9d9d;
+
+bottom: 0;
+
+width: 100%;
+/*left:0;*/
+ }
